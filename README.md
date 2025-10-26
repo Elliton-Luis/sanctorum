@@ -24,5 +24,5 @@ O projeto foi desenvolvido com foco em **experiência fluida, design clássico e
 - **Frontend:** Vue 3 + Inertia.js
 - **Estilização:** TailwindCSS
 - **Ícones:** Bootstrap Icons
-- **API opcional:** Catholic Readings API / Church Calendar API
+- **API:** Catholic Readings API
 - **Cache:** Laravel Cache para otimizar requisições
